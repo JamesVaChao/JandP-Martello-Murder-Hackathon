@@ -1,4 +1,4 @@
-{
+var murderDataJSON = {
     "1578151801": {
         "device": "access point", 
         "device-id": "ap1-1", 
@@ -47,101 +47,101 @@
         "event": "new client", 
         "guest-id": "Alok"
     }, 
-    "1578153300": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
-    }, 
-    "1578153302": {
+    "1578151859": {
         "device": "access point", 
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Veronica"
     }, 
-    "1578153307": {
+    "1578151866": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
-    "1578153322": {
+    "1578151886": {
         "device": "access point", 
         "device-id": "ap1-2", 
         "event": "user connected", 
         "guest-id": "Veronica"
     }, 
-    "1578153660": {
+    "1578152224": {
         "device": "access point", 
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Veronica"
     }, 
-    "1578153680": {
+    "1578152244": {
         "device": "access point", 
         "device-id": "ap1-1", 
         "event": "user connected", 
         "guest-id": "Veronica"
     }, 
-    "1578153690": {
+    "1578152254": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "successful keycard unlock", 
         "guest-id": "Veronica"
     }, 
-    "1578153697": {
+    "1578152261": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
+    }, 
+    "1578152263": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
+    "1578152270": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578152290": {
+        "device": "access point", 
+        "device-id": "ap1-2", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
+    "1578152628": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
+    "1578152648": {
+        "device": "access point", 
+        "device-id": "ap1-1", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
+    "1578152658": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "successful keycard unlock", 
+        "guest-id": "Thomas"
+    }, 
+    "1578152665": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578153300": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "unlocked no keycard", 
+        "guest-id": "n/a"
     }, 
     "1578154440": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154442": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154447": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154462": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154800": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154820": {
-        "device": "access point", 
-        "device-id": "ap1-1", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154830": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "successful keycard unlock", 
-        "guest-id": "Thomas"
-    }, 
-    "1578154837": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578155591": {
         "device": "access point", 
@@ -167,17 +167,41 @@
         "event": "successful keycard unlock", 
         "guest-id": "Marc-Andre"
     }, 
+    "1578155626": {
+        "device": "door sensor", 
+        "device-id": "156", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578155629": {
+        "device": "door sensor", 
+        "device-id": "156b", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
     "1578155641": {
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578155644": {
         "device": "door sensor", 
         "device-id": "156", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
+    }, 
+    "1578155645": {
+        "device": "door sensor", 
+        "device-id": "156b", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578155648": {
+        "device": "door sensor", 
+        "device-id": "156", 
+        "event": "door closed", 
+        "guest-id": "n/a"
     }, 
     "1578155652": {
         "device": "access point", 
@@ -207,7 +231,7 @@
         "device": "door sensor", 
         "device-id": "233", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578155861": {
         "device": "motion sensor", 
@@ -237,7 +261,7 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578156902": {
         "device": "access point", 
@@ -261,19 +285,19 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578157207": {
         "device": "door sensor", 
         "device-id": "233", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578157209": {
         "device": "door sensor", 
         "device-id": "233", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578157219": {
         "device": "door sensor", 
@@ -285,13 +309,13 @@
         "device": "door sensor", 
         "device-id": "231", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578157324": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578157330": {
         "device": "access point", 
@@ -321,7 +345,7 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578157348": {
         "device": "access point", 
@@ -330,6 +354,12 @@
         "guest-id": "Veronica"
     }, 
     "1578157351": {
+        "device": "motion sensor", 
+        "device-id": "elevator", 
+        "event": "motion detected", 
+        "guest-id": "n/a"
+    }, 
+    "1578157354": {
         "device": "access point", 
         "device-id": "ap2-1", 
         "event": "user connected", 
@@ -347,12 +377,6 @@
         "event": "user connected", 
         "guest-id": "Eugene"
     }, 
-    "1578157357": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
-        "guest-id": "n/a"
-    }, 
     "1578157358": {
         "device": "access point", 
         "device-id": "ap1-3", 
@@ -369,7 +393,7 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578157398": {
         "device": "motion sensor", 
@@ -387,13 +411,13 @@
         "device": "door sensor", 
         "device-id": "231", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578158120": {
         "device": "door sensor", 
         "device-id": "231", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578158121": {
         "device": "motion sensor", 
@@ -404,7 +428,7 @@
     "1578158131": {
         "device": "door sensor", 
         "device-id": "210", 
-        "event": "unlocked no keycard", 
+        "event": "successful keycard unlock", 
         "guest-id": "Marc-Andre"
     }, 
     "1578158132": {
@@ -423,7 +447,19 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
+    }, 
+    "1578158171": {
+        "device": "door sensor", 
+        "device-id": "210", 
+        "event": "unlocked no keycard", 
+        "guest-id": "n/a"
+    }, 
+    "1578158177": {
+        "device": "door sensor", 
+        "device-id": "210", 
+        "event": "door closed", 
+        "guest-id": "n/a"
     }, 
     "1578158181": {
         "device": "door sensor", 
@@ -435,25 +471,19 @@
         "device": "door sensor", 
         "device-id": "232", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
-    }, 
-    "1578158591": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
     "1578158592": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578158595": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578158597": {
         "device": "access point", 
@@ -477,19 +507,19 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578159917": {
         "device": "door sensor", 
         "device-id": "232", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578159922": {
         "device": "door sensor", 
         "device-id": "232", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578159961": {
         "device": "door sensor", 
@@ -501,19 +531,19 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578162369": {
         "device": "door sensor", 
         "device-id": "151", 
         "event": "unlocked no keycard", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578162372": {
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578162378": {
         "device": "access point", 
@@ -543,19 +573,19 @@
         "device": "door sensor", 
         "device-id": "231", 
         "event": "door closed", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578162971": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578162974": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578162985": {
         "device": "access point", 
@@ -579,19 +609,19 @@
         "device": "door sensor", 
         "device-id": "244", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578163512": {
         "device": "door sensor", 
         "device-id": "231", 
         "event": "unlocked no keycard", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578163514": {
         "device": "door sensor", 
         "device-id": "231", 
         "event": "door closed", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578163520": {
         "device": "motion sensor", 
@@ -627,13 +657,13 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578164467": {
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578164477": {
         "device": "access point", 
@@ -645,13 +675,13 @@
         "device": "door sensor", 
         "device-id": "244", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578165005": {
         "device": "door sensor", 
         "device-id": "244", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578165015": {
         "device": "door sensor", 
@@ -663,37 +693,7 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
-    }, 
-    "1578165120": {
-        "device": "door sensor", 
-        "device-id": "231", 
-        "event": "unlocked no keycard", 
-        "guest-id": "Rob"
-    }, 
-    "1578165127": {
-        "device": "door sensor", 
-        "device-id": "231", 
-        "event": "door closed", 
-        "guest-id": "Rob"
-    }, 
-    "1578165160": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
-    }, 
-    "1578165180": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Rob"
-    }, 
-    "1578165210": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user disconnected", 
-        "guest-id": "Rob"
     }, 
     "1578165950": {
         "device": "access point", 
@@ -717,7 +717,7 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Eugene"
+        "guest-id": "n/a"
     }, 
     "1578166010": {
         "device": "access point", 
@@ -741,7 +741,7 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Alok"
+        "guest-id": "n/a"
     }, 
     "1578166080": {
         "device": "door sensor", 
@@ -759,7 +759,7 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578166130": {
         "device": "access point", 
@@ -789,13 +789,13 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578166435": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578166440": {
         "device": "access point", 
@@ -807,7 +807,7 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578166460": {
         "device": "access point", 
@@ -819,13 +819,13 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578166507": {
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578166515": {
         "device": "door sensor", 
@@ -837,7 +837,7 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578166790": {
         "device": "access point", 
@@ -861,13 +861,13 @@
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578168300": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578168302": {
         "device": "access point", 
@@ -879,7 +879,7 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578168327": {
         "device": "motion sensor", 
@@ -901,15 +901,15 @@
     }, 
     "1578168365": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "successful keycard unlock", 
         "guest-id": "Marc-Andre"
     }, 
     "1578168372": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578168600": {
         "device": "access point", 
@@ -925,27 +925,27 @@
     }, 
     "1578168622": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "successful keycard unlock", 
         "guest-id": "Dave"
     }, 
     "1578168630": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578168682": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578168690": {
         "device": "door sensor", 
-        "device-id": "105", 
+        "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578168692": {
         "device": "access point", 
@@ -963,115 +963,115 @@
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
+    }, 
+    "1578168709": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Alok"
+    }, 
+    "1578168716": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578168736": {
+        "device": "access point", 
+        "device-id": "ap1-2", 
+        "event": "user connected", 
+        "guest-id": "Alok"
     }, 
     "1578168960": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Alok"
+        "guest-id": "n/a"
     }, 
-    "1578168962": {
+    "1578169074": {
         "device": "access point", 
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Alok"
     }, 
-    "1578168967": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Alok"
-    }, 
-    "1578168982": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Alok"
-    }, 
-    "1578169320": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Alok"
-    }, 
-    "1578169340": {
+    "1578169094": {
         "device": "access point", 
         "device-id": "ap1-1", 
         "event": "user connected", 
         "guest-id": "Alok"
     }, 
-    "1578169350": {
+    "1578169104": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "successful keycard unlock", 
         "guest-id": "Alok"
     }, 
-    "1578169357": {
+    "1578169111": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Alok"
+        "guest-id": "n/a"
+    }, 
+    "1578169113": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Veronica"
+    }, 
+    "1578169120": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578169140": {
+        "device": "access point", 
+        "device-id": "ap1-2", 
+        "event": "user connected", 
+        "guest-id": "Veronica"
+    }, 
+    "1578169478": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Veronica"
+    }, 
+    "1578169498": {
+        "device": "access point", 
+        "device-id": "ap1-1", 
+        "event": "user connected", 
+        "guest-id": "Veronica"
+    }, 
+    "1578169508": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "successful keycard unlock", 
+        "guest-id": "Veronica"
+    }, 
+    "1578169515": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
     }, 
     "1578169800": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
-    }, 
-    "1578169802": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Veronica"
-    }, 
-    "1578169807": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Veronica"
-    }, 
-    "1578169822": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Veronica"
-    }, 
-    "1578170160": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Veronica"
-    }, 
-    "1578170180": {
-        "device": "access point", 
-        "device-id": "ap1-1", 
-        "event": "user connected", 
-        "guest-id": "Veronica"
-    }, 
-    "1578170190": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "successful keycard unlock", 
-        "guest-id": "Veronica"
-    }, 
-    "1578170197": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578170640": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578170647": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578170660": {
         "device": "door sensor", 
@@ -1083,115 +1083,115 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
+    }, 
+    "1578170669": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Jason"
+    }, 
+    "1578170676": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578170696": {
+        "device": "access point", 
+        "device-id": "ap1-2", 
+        "event": "user connected", 
+        "guest-id": "Jason"
     }, 
     "1578172680": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
-    }, 
-    "1578172682": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Jason"
-    }, 
-    "1578172687": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Jason"
-    }, 
-    "1578172702": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578172800": {
         "device": "door sensor", 
-        "device-id": "155", 
+        "device-id": "151", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578172807": {
         "device": "door sensor", 
-        "device-id": "155", 
+        "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
-    "1578173040": {
+    "1578173145": {
         "device": "access point", 
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Jason"
     }, 
-    "1578173060": {
+    "1578173165": {
         "device": "access point", 
         "device-id": "ap1-1", 
         "event": "user connected", 
         "guest-id": "Jason"
     }, 
-    "1578173070": {
+    "1578173175": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "successful keycard unlock", 
         "guest-id": "Jason"
     }, 
-    "1578173077": {
+    "1578173182": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
+    }, 
+    "1578173184": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Eugene"
+    }, 
+    "1578173191": {
+        "device": "door sensor", 
+        "device-id": "110", 
+        "event": "door closed", 
+        "guest-id": "n/a"
+    }, 
+    "1578173211": {
+        "device": "access point", 
+        "device-id": "ap1-2", 
+        "event": "user connected", 
+        "guest-id": "Eugene"
     }, 
     "1578173220": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Eugene"
+        "guest-id": "n/a"
     }, 
-    "1578173222": {
+    "1578173549": {
         "device": "access point", 
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Eugene"
     }, 
-    "1578173227": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "Eugene"
-    }, 
-    "1578173242": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Eugene"
-    }, 
-    "1578173580": {
-        "device": "access point", 
-        "device-id": "ap1-4", 
-        "event": "user connected", 
-        "guest-id": "Eugene"
-    }, 
-    "1578173600": {
+    "1578173569": {
         "device": "access point", 
         "device-id": "ap1-1", 
         "event": "user connected", 
         "guest-id": "Eugene"
     }, 
-    "1578173610": {
+    "1578173579": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "successful keycard unlock", 
         "guest-id": "Eugene"
     }, 
-    "1578173617": {
+    "1578173586": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Eugene"
+        "guest-id": "n/a"
     }, 
     "1578174600": {
         "device": "door sensor", 
@@ -1203,7 +1203,7 @@
         "device": "door sensor", 
         "device-id": "156", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578174840": {
         "device": "door sensor", 
@@ -1215,31 +1215,31 @@
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578175055": {
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578175062": {
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578175065": {
         "device": "door sensor", 
         "device-id": "156", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578175072": {
         "device": "door sensor", 
         "device-id": "156", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578175080": {
         "device": "access point", 
@@ -1257,13 +1257,13 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578176707": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578176820": {
         "device": "door sensor", 
@@ -1275,19 +1275,19 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578176880": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578176887": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578176940": {
         "device": "door sensor", 
@@ -1299,13 +1299,13 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578177000": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578177002": {
         "device": "access point", 
@@ -1349,11 +1349,11 @@
         "event": "user connected", 
         "guest-id": "Alok"
     }, 
-    "1578177022": {
+    "1578177040": {
         "device": "door sensor", 
         "device-id": "110", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578177300": {
         "device": "access point", 
@@ -1377,13 +1377,13 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578177907": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578178080": {
         "device": "door sensor", 
@@ -1395,7 +1395,7 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578178290": {
         "device": "access point", 
@@ -1407,13 +1407,13 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578180905": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578182423": {
         "device": "access point", 
@@ -1443,25 +1443,7 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Thomas"
-    }, 
-    "1578182443": {
-        "device": "access point", 
-        "device-id": "ap1-2", 
-        "event": "user connected", 
-        "guest-id": "Eugene"
-    }, 
-    "1578182444": {
-        "device": "door sensor", 
-        "device-id": "152", 
-        "event": "unlocked no keycard", 
-        "guest-id": "Eugene"
-    }, 
-    "1578182449": {
-        "device": "door sensor", 
-        "device-id": "152", 
-        "event": "door closed", 
-        "guest-id": "Eugene"
+        "guest-id": "n/a"
     }, 
     "1578182458": {
         "device": "access point", 
@@ -1491,7 +1473,7 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578182712": {
         "device": "access point", 
@@ -1504,12 +1486,6 @@
         "device-id": "ap1-4", 
         "event": "user disconnected", 
         "guest-id": "Alok"
-    }, 
-    "1578183030": {
-        "device": "door sensor", 
-        "device-id": "152", 
-        "event": "unlocked no keycard", 
-        "guest-id": "Eugene"
     }, 
     "1578183031": {
         "device": "access point", 
@@ -1527,13 +1503,13 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578184206": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578184207": {
         "device": "motion sensor", 
@@ -1546,6 +1522,12 @@
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Jason"
+    }, 
+    "1578184217": {
+        "device": "access point", 
+        "device-id": "ap1-4", 
+        "event": "user connected", 
+        "guest-id": "Veronica"
     }, 
     "1578184284": {
         "device": "motion sensor", 
@@ -1575,7 +1557,7 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578184297": {
         "device": "access point", 
@@ -1589,23 +1571,17 @@
         "event": "successful keycard unlock", 
         "guest-id": "Jason"
     }, 
-    "1578184303": {
-        "device": "door sensor", 
-        "device-id": "241", 
-        "event": "door closed", 
-        "guest-id": "Jason"
-    }, 
-    "1578184305": {
-        "device": "motion sensor", 
-        "device-id": "stairwell", 
-        "event": "motion detected", 
-        "guest-id": "n/a"
-    }, 
-    "1578184306": {
+    "1578184300": {
         "device": "access point", 
         "device-id": "ap1-2", 
         "event": "user connected", 
         "guest-id": "Veronica"
+    }, 
+    "1578184303": {
+        "device": "door sensor", 
+        "device-id": "241", 
+        "event": "door closed", 
+        "guest-id": "n/a"
     }, 
     "1578184308": {
         "device": "door sensor", 
@@ -1617,19 +1593,19 @@
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578184314": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578184318": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578184319": {
         "device": "access point", 
@@ -1641,13 +1617,13 @@
         "device": "door sensor", 
         "device-id": "151", 
         "event": "unlocked no keycard", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578186010": {
         "device": "door sensor", 
         "device-id": "151", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578186011": {
         "device": "door sensor", 
@@ -1659,7 +1635,7 @@
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578186018": {
         "device": "door sensor", 
@@ -1671,7 +1647,7 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578186122": {
         "device": "phone", 
@@ -1743,37 +1719,37 @@
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Rob"
+        "guest-id": "n/a"
     }, 
     "1578187842": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578187847": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578187849": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "unlocked no keycard", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578187852": {
         "device": "door sensor", 
         "device-id": "155", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578187853": {
         "device": "door sensor", 
         "device-id": "150", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578187854": {
         "device": "motion sensor", 
@@ -1785,7 +1761,7 @@
         "device": "door sensor", 
         "device-id": "150", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578187862": {
         "device": "motion sensor", 
@@ -1815,13 +1791,13 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578187992": {
         "device": "door sensor", 
         "device-id": "250", 
-        "event": "successful keycard unlock", 
-        "guest-id": "Veronica"
+        "event": "unlocked no keycard", 
+        "guest-id": "n/a"
     }, 
     "1578187993": {
         "device": "motion sensor", 
@@ -1833,7 +1809,7 @@
         "device": "door sensor", 
         "device-id": "250", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578188000": {
         "device": "access point", 
@@ -1863,7 +1839,7 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Veronica"
+        "guest-id": "n/a"
     }, 
     "1578188192": {
         "device": "phone", 
@@ -1893,13 +1869,13 @@
         "device": "door sensor", 
         "device-id": "130", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578188403": {
         "device": "door sensor", 
         "device-id": "130", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578188491": {
         "device": "motion sensor", 
@@ -1917,19 +1893,19 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "unlocked no keycard", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578188572": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Dave"
+        "guest-id": "n/a"
     }, 
     "1578190047": {
         "device": "door sensor", 
         "device-id": "150", 
         "event": "unlocked no keycard", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190049": {
         "device": "motion sensor", 
@@ -1941,19 +1917,19 @@
         "device": "door sensor", 
         "device-id": "150", 
         "event": "door closed", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190073": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "unlocked no keycard", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578190077": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578190085": {
         "device": "motion sensor", 
@@ -1965,21 +1941,15 @@
         "device": "door sensor", 
         "device-id": "250", 
         "event": "unlocked no keycard", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190092": {
         "device": "door sensor", 
         "device-id": "250", 
         "event": "door closed", 
-        "guest-id": "James"
-    }, 
-    "1578190095": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
-    "1578190102": {
+    "1578190095": {
         "device": "motion sensor", 
         "device-id": "elevator", 
         "event": "motion detected", 
@@ -2001,19 +1971,13 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "unlocked no keycard", 
-        "guest-id": "Veronica"
-    }, 
-    "1578190170": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
     "1578190180": {
         "device": "door sensor", 
         "device-id": "250", 
         "event": "unlocked no keycard", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190182": {
         "device": "motion sensor", 
@@ -2025,7 +1989,7 @@
         "device": "door sensor", 
         "device-id": "250", 
         "event": "door closed", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190215": {
         "device": "motion sensor", 
@@ -2037,13 +2001,13 @@
         "device": "door sensor", 
         "device-id": "150", 
         "event": "unlocked no keycard", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190221": {
         "device": "door sensor", 
         "device-id": "150", 
         "event": "door closed", 
-        "guest-id": "James"
+        "guest-id": "n/a"
     }, 
     "1578190316": {
         "device": "access point", 
@@ -2073,30 +2037,18 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578191669": {
         "device": "door sensor", 
         "device-id": "248", 
         "event": "unlocked no keycard", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578191674": {
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Thomas"
-    }, 
-    "1578191680": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
-        "guest-id": "n/a"
-    }, 
-    "1578191682": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
     "1578191683": {
@@ -2105,21 +2057,9 @@
         "event": "user connected", 
         "guest-id": "Thomas"
     }, 
-    "1578191684": {
-        "device": "access point", 
-        "device-id": "ap2-3", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
     "1578191696": {
         "device": "access point", 
         "device-id": "ap2-1", 
-        "event": "user connected", 
-        "guest-id": "Thomas"
-    }, 
-    "1578191699": {
-        "device": "access point", 
-        "device-id": "ap2-2", 
         "event": "user connected", 
         "guest-id": "Thomas"
     }, 
@@ -2147,6 +2087,18 @@
         "event": "on hook", 
         "guest-id": "n/a"
     }, 
+    "1578192004": {
+        "device": "access point", 
+        "device-id": "ap2-3", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
+    "1578192020": {
+        "device": "access point", 
+        "device-id": "ap2-2", 
+        "event": "user connected", 
+        "guest-id": "Thomas"
+    }, 
     "1578192023": {
         "device": "motion sensor", 
         "device-id": "elevator", 
@@ -2169,7 +2121,7 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578192121": {
         "device": "motion sensor", 
@@ -2193,18 +2145,12 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578195377": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Jason"
-    }, 
-    "1578195380": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
     "1578195383": {
@@ -2223,31 +2169,25 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578195748": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578195753": {
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578195770": {
         "device": "access point", 
         "device-id": "ap2-3", 
         "event": "user connected", 
         "guest-id": "Jason"
-    }, 
-    "1578195783": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
-        "guest-id": "n/a"
     }, 
     "1578195785": {
         "device": "access point", 
@@ -2265,19 +2205,19 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578195848": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "unlocked no keycard", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578195853": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578195868": {
         "device": "motion sensor", 
@@ -2295,24 +2235,18 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578196981": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578196986": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Jason"
-    }, 
-    "1578196988": {
-        "device": "motion sensor", 
-        "device-id": "elevator", 
-        "event": "motion detected", 
         "guest-id": "n/a"
     }, 
     "1578196990": {
@@ -2343,13 +2277,13 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "unlocked no keycard", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578199633": {
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578199648": {
         "device": "motion sensor", 
@@ -2385,7 +2319,7 @@
         "device": "door sensor", 
         "device-id": "235", 
         "event": "door closed", 
-        "guest-id": "Kristina"
+        "guest-id": "n/a"
     }, 
     "1578212696": {
         "device": "access point", 
@@ -2405,12 +2339,6 @@
         "event": "user connected", 
         "guest-id": "Jason"
     }, 
-    "1578212729": {
-        "device": "motion sensor", 
-        "device-id": "200", 
-        "event": "motion detected", 
-        "guest-id": "n/a"
-    }, 
     "1578212731": {
         "device": "access point", 
         "device-id": "ap2-2", 
@@ -2421,19 +2349,19 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578212741": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578232040": {
         "device": "door sensor", 
         "device-id": "241", 
         "event": "unlocked no keycard", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578232043": {
         "device": "access point", 
@@ -2445,7 +2373,7 @@
         "device": "door sensor", 
         "device-id": "241", 
         "event": "door closed", 
-        "guest-id": "Jason"
+        "guest-id": "n/a"
     }, 
     "1578232062": {
         "device": "motion sensor", 
@@ -2463,7 +2391,7 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "unlocked no keycard", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578232323": {
         "device": "access point", 
@@ -2475,7 +2403,7 @@
         "device": "door sensor", 
         "device-id": "248", 
         "event": "door closed", 
-        "guest-id": "Thomas"
+        "guest-id": "n/a"
     }, 
     "1578232347": {
         "device": "motion sensor", 
@@ -2511,7 +2439,7 @@
         "device": "door sensor", 
         "device-id": "156", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233040": {
         "device": "door sensor", 
@@ -2523,31 +2451,31 @@
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233220": {
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233227": {
         "device": "door sensor", 
         "device-id": "156b", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233280": {
         "device": "door sensor", 
         "device-id": "156", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233287": {
         "device": "door sensor", 
         "device-id": "156", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578233294": {
         "device": "access point", 
@@ -2583,7 +2511,7 @@
         "device": "door sensor", 
         "device-id": "232", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578234000": {
         "device": "motion sensor", 
@@ -2631,13 +2559,13 @@
         "device": "door sensor", 
         "device-id": "232", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578234907": {
         "device": "door sensor", 
         "device-id": "232", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578234912": {
         "device": "door sensor", 
@@ -2649,19 +2577,19 @@
         "device": "door sensor", 
         "device-id": "220", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578236400": {
         "device": "door sensor", 
         "device-id": "220", 
         "event": "unlocked no keycard", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578236407": {
         "device": "door sensor", 
         "device-id": "220", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578236412": {
         "device": "door sensor", 
@@ -2673,7 +2601,7 @@
         "device": "door sensor", 
         "device-id": "210", 
         "event": "door closed", 
-        "guest-id": "Marc-Andre"
+        "guest-id": "n/a"
     }, 
     "1578236422": {
         "device": "phone", 

@@ -1240,13 +1240,26 @@
         <circle id="c6" cx="-250" cy="300" r="5"></circle>
         <circle id="c7" cx="-250" cy="300" r="5" ></circle>
     </svg>
-</body>
+
+    
+    <!---- CSS ---->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./lib/tabulator/css/tabulator_midnight.css">
+    <link title="timeline-styles" rel="stylesheet" href="./lib/timelineJS/css/timeline.css">
+
+    <!---- JS ---->
+    <script src="./lib/tabulator/js/tabulator.js"></script>
+    <script src="./lib/timelineJS/js/timeline.js""></script>
+    <script src="./data/Murder on the 2nd Floor/Murder-on-the-2nd-Floor-Raw-Data.js"></script>
+    <script src="./main.js"></script>
+                           
+    <table id= "dataTable"></table>
+    <span> Time at Event:</span> <span id="currentTime"></span><br>
+    <span> Person:</span> <span id="currentName"></span>
+    <div id='timeline-embed' style="width: 100%; "></div>
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="./main.js"></script>
-
-<script>
-
-</script>
-
+</body>
 </html>
