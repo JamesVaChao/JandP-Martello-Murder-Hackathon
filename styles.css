@@ -1,6 +1,9 @@
 body{
     background:rgb(255, 255, 255);
-    color: white;
+    color: black;
     font-family:arial;
 }
 
+#Layer_1{
+    width: 800px
+}
