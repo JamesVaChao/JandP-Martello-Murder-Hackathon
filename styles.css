@@ -5,5 +5,27 @@ body{
 }
 
 #Layer_1{
-    width: 800px
+    width: 800px;
+    float: left;
+}
+
+#legendDiv{
+    width: 200px;
+    float: left;
+
+}
+#legendImg{
+    width: 200px;
+    margin-top: 100px;
+}
+#tableAndTimelineDiv{
+    display: inline-block;
+    width: 100%;
+}
+#currentTime {
+    background-color: aqua;
+}
+
+#currentName {
+    background-color: aqua;
 }

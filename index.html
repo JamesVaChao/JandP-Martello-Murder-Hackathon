@@ -1,5 +1,6 @@
 <html>
-<head>        
+
+<head>
     <title>cuhacking-challenge-floor-plan</title>
     <!---- CSS ---->
     <link rel="stylesheet" href="styles.css">
@@ -8,8 +9,9 @@
 
 
 </head>
+
 <body>
-    
+
     <div></div>
     <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
         viewBox="0 0 1186.18 1295.78">
@@ -72,7 +74,7 @@
                 <rect class="cls-1" y="-0.01" width="1186.18" height="1295.79" />
             </clipPath>
         </defs>
-       
+
 
         <polygon class="cls-2"
             points="85.63 421.87 85.63 434.21 82.78 434.21 82.78 424.16 80.31 424.16 80.31 421.87 85.63 421.87" />
@@ -108,7 +110,7 @@
             <path class="cls-2"
                 d="M121.11,1017.82l-2.38-3.44H116.1v3.44h-2.85v-12.34h5.34a7,7,0,0,1,2.85.54A4.1,4.1,0,0,1,124,1010a4,4,0,0,1-2.54,3.89l2.77,4Zm-.72-9.46a3,3,0,0,0-2-.56H116.1v4.31h2.33a3,3,0,0,0,2-.57,2.22,2.22,0,0,0,0-3.18" />
             <rect class="cls-4" x="194.46" y="176.95" width="201.38" height="315.27" />
-    
+
             <path class="cls-5" d="M396.34,492.72H194V176.45H396.34Zm-201.38-1H395.34V177.45H195Z" />
             <rect class="cls-4" x="194.46" y="492.22" width="201.38" height="201.94" />
             <path class="cls-5" d="M396.34,694.66H194V491.72H396.34Zm-201.38-1H395.34V492.72H195Z" />
@@ -1237,34 +1239,36 @@
             <tspan class="cls-11" x="22.26" y="0">L</tspan>
             <tspan x="36.48" y="0">OOR</tspan>
         </text>
-        <circle id="c1" cx="-250" cy="-300" r="5" ></circle>
-        <circle id="c2" cx="-250" cy="300" r="5" ></circle>
-    
-        <circle id="c3" cx="-250" cy="300" r="5" ></circle>
-        <circle id="c4" cx="-250" cy="300" r="5" ></circle>
-        <circle id="c5" cx="-250" cy="300" r="5" ></circle>
+        <circle id="c1" cx="-250" cy="-300" r="5"></circle>
+        <circle id="c2" cx="-250" cy="300" r="5"></circle>
+
+        <circle id="c3" cx="-250" cy="300" r="5"></circle>
+        <circle id="c4" cx="-250" cy="300" r="5"></circle>
+        <circle id="c5" cx="-250" cy="300" r="5"></circle>
         <circle id="c6" cx="-250" cy="300" r="5"></circle>
-        <circle id="c7" cx="-250" cy="300" r="5" ></circle>
-        <circle id="c8" cx="-250" cy="300" r="5" ></circle>
-        <circle id="c9" cx="-250" cy="300" r="5" ></circle>
-        <circle id="c10" cx="-250" cy="300" r="5" ></circle>
+        <circle id="c7" cx="-250" cy="300" r="5"></circle>
+        <circle id="c8" cx="-250" cy="300" r="5"></circle>
+        <circle id="c9" cx="-250" cy="300" r="5"></circle>
+        <circle id="c10" cx="-250" cy="300" r="5"></circle>
 
-    
+
     </svg>
+    <div id = "legendDiv"><img id = "legendImg" src= "./legend.png"/></div>
+    <div id="tableAndTimelineDiv">
+        <span> Time at Event:</span> <span id="currentTime"></span><br>
+        <span> Person:</span> <span id="currentName"></span>
+    <table id="dataTable"></table>
 
-    <table id= "dataTable"></table>
-    <span> Time at Event:</span> <span id="currentTime"></span><br>
-    <span> Person:</span> <span id="currentName"></span>
     <div id='timeline-embed' style="width: 100%; "></div>
-
+</div id="tableAndTimelineDiv">
     <!---- JS ---->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="./lib/tabulator/js/tabulator.js"></script>
     <script src="./lib/timelineJS/js/timeline.js"></script>
     <script src="./data/Murder on the 2nd Floor/Murder-on-the-2nd-Floor-Raw-Data.js"></script>
     <script src="./main.js"></script>
-                           
- 
+
+
 
 
 </body>

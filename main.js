@@ -5,8 +5,10 @@
 - Wifi connection implementation
 - Cross referencing information to rank probability of killer
 - Non hardcoded room coordinates (Shape and space recognition)
+- Better UI with highlighting on table and timeline
+- Highlight all events before slected events
+- Pick arbitrary time for event
 */
-
 
 
 console.log("Hello Jams");
