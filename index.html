@@ -4,11 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>CUHACK2020</title>
+    
+    <!---- CSS ---->
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./lib/tabulator/css/tabulator_midnight.css">
+    <link title="timeline-styles" rel="stylesheet" href="./lib/timelineJS/css/timeline.css">
+
+    <!---- JS ---->
+    <script src="./lib/tabulator/js/tabulator.js"></script>
+    <script src="./lib/timelineJS/js/timeline.js""></script>
+    <script src="./data/Murder on the 2nd Floor/Murder-on-the-2nd-Floor-Raw-Data.js"></script>
     <script src="./main.js"></script>
+
 </head>
 <body>
-    
+
+
+    <table id= "dataTable"></table>
+    <span> Time at Event:</span> <span id="currentTime"></span><br>
+    <span> Person:</span> <span id="currentName"></span>
+    <div id='timeline-embed' style="width: 100%; "></div>
+
 </body>
 </html>
