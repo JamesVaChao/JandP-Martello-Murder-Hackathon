@@ -1,3 +1,11 @@
+/*Features to add
+
+- Click on room and gives a history of whose been there
+- Door tracking of opening and closing states
+- Wifi connection implementation
+- Cross referencing information to rank probability of killer
+
+*/
 
 
 
@@ -233,14 +241,6 @@ function createTimeline() {
 window.onload = createPage;
 
 
-/*Features to add
-
-- Click on room and gives a history of whose been there
-- Door tracking of opening and closing states
-- Wifi connection implementation
-- Cross referencing information to rank probability of killer
-
-*/
 
 console.log("Hello Jams");
 colorList = ['red', 'orange','lime','green','blue','purple','pink','grey','brown','aqua']
