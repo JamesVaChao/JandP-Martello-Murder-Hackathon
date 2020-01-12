@@ -1,3 +1,12 @@
+/*Features to add
+
+- Click on room and gives a history of whose been there
+- Door tracking of opening and closing states
+- Wifi connection implementation
+- Cross referencing information to rank probability of killer
+*/
+
+
 console.log("Hello Jams");
 exampleData = new Date(1578151801 * 1000);
 var currentTimeDOM;
